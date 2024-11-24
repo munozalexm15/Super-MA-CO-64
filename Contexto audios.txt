@@ -1,0 +1,84 @@
+ATTACKED: Sonido para cuando el jugador es golpeado por algo (EJ: Goomba). Expresa dolor. No debe durar más de un segundo.
+
+COUGHING 1-2-3: Sonido de toser. Tose, no me jodas. No debe durar más de un segundo.
+
+DOH: Sonido que se reproduce al cocharte con algo (EJ: Saltar de boca a una pared). Expresa molestia. No debe durar más de un segundo.
+
+DROWNING: Sonido que se reproduce al ahogarte (salud llega a 0 bajo el agua). Expresa asfixia. No debe durar más de 3 segundos.
+
+DYING: Sonido que se reproduce al morir (salud llega  0). Expresa agonia y dolor. No debe durar más de 2 segundos.
+
+EUUH: Sonido que se reproduce al realizar un esfuerzo (EJ: Trepar una pared). Expresa esfuerzo físico. No debe durar más de 1 segundo.
+
+GROUND-POUND-WAH: Sonido que se reproduce al hacer un salto de culo al suelo. Dí lo que quieras. No debe durar más de 1 segundo.
+
+HAHA_2: No sé exactamente cuando se reproduce, ve a lo seguro y haz un sonidito de risa anda. No debe durar más de 1 segundo.
+
+HAHA: Sonido que se reproduce al aterrizar despues de un triple salto o salir de una tuberia. Expresa sorpresa y felicidad. No debe durar más de 2 segundos.
+
+HELLO: ¿Tengo que explicarlo de verdad?
+
+HEREWEGO: Sonido que se reproduce al coger una estrella. Dí lo que quieras. No debe durar más de 2 segundos.
+
+HOOHOO: Uno de los tantos sonidos que se reproducen con todo lo relacionado a saltar. Expresa esfuerzo físico. No más de 1 segundo.
+
+HRMMM: Otro que no sé exactamente cuando se reproduce, ve a lo seguro y di algo similar.
+
+IMATIRED: Sonido que se reproduce al estar AFK / Idle durante un tiempo. Expresa cansancio, pero puedes decir lo que quieras. No más de 2 segundos.
+
+LETSAGO: Sonido que se reproduce al entrar a un nivel. Dí lo que quieras. No debe durar más de 2 segundos.
+
+MAMMA_MIA: Ni idea de cuando se reproduce. Expresa sorpresa. No debe de durar más de 2 segundos.
+
+OKEY_DOKEY: Como tal creo que en SM64COOPdx no sé usa. Es el sonido que suena en el menu de Mario 64 cuando eliges tu partida. No debe durar más de 2 segundos.
+
+ON_FIRE: Sonido que se reproduce cuando te quemas el culo. Expresa dolor. No debe durar más de 3 segundos.
+
+OOF: Sonido que se reproduce al ser golpeado y caerte (EJ: Cuando te expulsan de un nivel por morir). Expresa dolor o molestia. No debe durar más de 1 segundo. 
+
+- DATO: Lo puedes enlazar con OOOF2.
+
+OOOF2: Sonido que se reproduce cuando el personaje se levanta despues de ser golpeado y caerse (Después de OOOF). Expresa molestia. No debe durar más de 1 segundo.
+
+PANTING_COLD: Sonido que se reproduce cuando te queda poca salud y estas hecho polvo en mapas de nieve. Expresa debilidad y cansancio. No debe durar más de 1 segundo.
+
+PANTING: Lo mismo de arriba pero en el resto de situaciones (osea, en mapas normales que no tienen nieve). Expresa debilidad y cansancio. No debe durar más de 1 segundo. 
+
+- DATO: Estos ultimos dos pueden ser los mismos, no hace falta que hagas dos audios diferentes si quieres.
+
+PUNCH_YAH: Primer golpe que realiza el jugador con su puño derecho. Expresa esfuerzo físico, pero puedes soltar una palabra si quieres. No debe durar más de un segundo.
+
+PUNCH_WAH: Segundo golpe que realiza el jugador con su puño izquierdo. Expersa esfuerzo físico, pero puedes soltar una palabra si quieres. No debe durar más de un segundo.
+
+PUNCH_HOO: Tercer y ultimo golpe que hace el jugador, siendo una patada. Expresa esfuerzo físico, pero puedes soltar una palabra si quieres. No debe durar más de un segundo.
+
+- DATO: Puedes enlazar los tres golpes de manera que por ejemplo en el primer golpe digas "CHUPAME", el segundo "LOS" y en el tercero digas "HUEVOS". Solo asegurate de que
+        el jugador si solo lanza un golpe, no quede feo.
+
+SNORING1: Sonido que se reproduce a continuación de YAWNING(Cuando se reproduce la animación de dormir por estar AFK). Expresa ronquido. No debe durar más de un segundo.
+
+SNORING2: Sonido que se reproduce después de SNORING1 (Es la parte de expirar del ronquido). Expresa una liberación de dioxido de carbono gracias al sistema respiratorio del ser humano. No debe durar más de un segundo.
+
+SNORING3: Sonido que se reproduce aleatoriamente entre SNORING 1 y 2. Es un seguido de ronquidos, entre los que puedes decir alguna cosa. No debe durar más de 10 segundos.
+
+SOLONGA_BOWSER: Sonido que se reproduce al lanzar a Bowser después de cogerle de la cola en las bossfights. Dí lo que quieras. No debe durar más de 2 segundos.
+
+TWIRL_BOUNCE: Es de una mecánica de salto oculta que solo se reproduce en "Snow Mountain". Expresa esfuerzo físico, pero puedes soltar una palabra si quieres. No debe durar más de 1 segundo.
+
+UH2_2, UH2, UH : Sonidos que se reproducen al chocarte o hacer saltos. Id a lo seguro y soltad algo similar. No deben durar más de 1 segundo.
+
+WAAAOOOW: Sonido que se reproduce al llevar más de 1 segundo en caida. Expresa miedo y terror al saber que te vas a meter una hostia gigante y posiblemente mueras. No debe durar más de 3 segundos.
+
+WAH: Uno de los tantos sonidos que se reproducen con todo lo relacionado a saltar. Expresa esfuerzo físico. No más de 1 segundo.
+
+WOAH: Sonido que se reproduce al agarrarte a un arbol o saliente. Expresa esfuerzo físico, pero puedes soltar una palabra si quieres. No debe durar más de 1 segundo.
+
+YAH: Uno de los tantos sonidos que se reproducen con todo lo relacionado a saltar. Expresa esfuerzo físico. No más de 1 segundo.
+
+YAHOO 1, 2, 3, 4 y 5: Sonidos que se reproducen en el tercer salto. Expresan esfuerzo físico, pero puedes soltar una palabra si quieres. No debe durar más de 1 segundo.
+
+YAHOO_WAHA_YIPPEE_WAHA , YAHOO_WAHA_YIPPEE_YAHOO y YAHOO_WAHA_YIPPEE_YIPPEE: Sonidos que se reproducen de manera ALEATORIA cuando saltas. No debe durar más de 1 segundo.
+
+ - DATO: A diferencia de los sonidos PUNCH, estos no se pueden encadenar para hacer una frase por ejemplo ya que son aleatorios. No lo intentes, queda fatal.
+
+YAWNING: Sonido de bostezo. Se reproduce después de IMATIRED y antes de SNORING1. Expresa cansancio (bostezo). No más de 2 segundo.
